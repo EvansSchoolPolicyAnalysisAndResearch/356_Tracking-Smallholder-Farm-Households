@@ -9,3 +9,4 @@ The .dta files in the "AGRA Report Supplemental dta Files" were developed by the
 The .do files include all of the code used to categorize farm household and generate summary statistics from the raw survey data for a given survey wave. Click on the green "Clone or Download" button and choose "Download zip" to download a copy of the .do files, and follow the instructions at the top of the .do files to download the raw survey data from the World Bank, update the global filepaths, and run the code. 
 
 If you use or modify our code, please cite us using the provided citation. 
+[![DOI](https://zenodo.org/badge/113353161.svg)](https://zenodo.org/badge/latestdoi/113353161)
