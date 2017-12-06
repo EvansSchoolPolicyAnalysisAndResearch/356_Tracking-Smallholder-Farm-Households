@@ -1602,4 +1602,4 @@ ls_cattle_count_w ls_poultry_count_w ls_other_count_w ls_tropical_units_w field_
 value_crop_sales_w_usd value_of_harvest_w_usd prop_crop_value_sold crop_sales_prop_cat total_income_usd farm_income_w_usd nonfarm_income_w_usd ///
 nonfarm_income_prop nonfarm_income_prop_cat commercial_cat tlu_40pct tlu_50pct farm_area_0_4_ha farm_area_0_2_ha farm_area_0_40pct_ha
 
-export delimited using "C:\Users\pbiscaye\Downloads\ETH_Wave2_Viz Data_Updated.csv", replace
+export delimited using "$merge\ETH_Wave2_Viz Data_Updated.csv", replace

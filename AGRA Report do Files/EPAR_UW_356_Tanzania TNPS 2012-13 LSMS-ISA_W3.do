@@ -1738,4 +1738,4 @@ ls_cattle_count_w ls_poultry_count_w ls_other_count_w ls_tropical_units_w plot_a
 crop_sales_w_usd crop_value_w_usd prop_crop_value_sold crop_sales_prop_cat total_income_usd farm_income_w_usd nonfarm_income_w_usd ///
 nonfarm_income_prop nonfarm_income_prop_cat commercial_cat tlu_40pct tlu_50pct farm_area_0_4_ha farm_area_0_2_ha farm_area_0_40pct_ha
 
-export delimited using "C:\Users\pbiscaye\Downloads\TZ_Wave3_Viz Data_Updated.csv", replace
+export delimited using "$merge\TZ_Wave3_Viz Data_Updated.csv", replace
